@@ -2,11 +2,13 @@
 title: "Assessment of Landslide Susceptibility Considering the Factors of Human Engineering Activities"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+permalink: /publication/Assessment of Landslide Susceptibility Considering 
+the Factors of Human Engineering Activities
+excerpt: 'This paper is about Landslide Susceptibility Assessment.'
+date: 2024
+venue: 'IEEE International Geoscience and Remote Sensing Symposium'
+paperurl: 'http://academicpages.github.io/files/Assessment of Landslide Susceptibility Considering 
+the Factors of Human Engineering Activities.pdf'
 citation: 'Yin W, Xue Y, Niu C, Wang P, Li P, He B, Xu J, Hou H, Varotsos C. Assessment of Landslide Susceptibility Considering 
 the Factors of Human Engineering Activities. IEEE International Geoscience and Remote Sensing Symposium. IEEE, 
 2024: 1900-1903. (EI conference paper) '
